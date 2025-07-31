@@ -303,3 +303,5 @@ credit.Text = "Made by - SerosScript"
 credit.Font = Enum.Font.FredokaOne
 credit.TextSize = 14
 credit.TextColor3 = Color3.fromRGB(200, 200, 200)
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptsHubsIds/SerosScripts/refs/heads/main/AutoPetLevel.lua'))()
