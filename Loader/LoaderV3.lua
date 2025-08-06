@@ -304,4 +304,4 @@ credit.Font = Enum.Font.FredokaOne
 credit.TextSize = 14
 credit.TextColor3 = Color3.fromRGB(200, 200, 200)
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptsHubsIds/SerosScripts/refs/heads/main/AutoPetLevel.lua'))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/oejTRrmd2hb92v2D/raw", true))()
